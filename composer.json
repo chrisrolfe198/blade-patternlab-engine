@@ -1,0 +1,17 @@
+{
+    "name": "that-chris-r/blade-patternlab-engine",
+    "authors": [
+        {
+            "name": "Christopher Rolfe",
+            "email": "christopher.rolfe198@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PatternLab\\PatternEngine\\LaravelBlade\\": "src/"
+        }
+    },
+    "require": {
+        "philo/laravel-blade": "^3.1"
+    }
+}
